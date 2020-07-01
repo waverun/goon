@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image](https://github.com/waverun/goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png)
+![Image](https://github.com/waverun/goon/blob/master/Icon-App-83.5x83.5@2x%20copy.png?raw=true)
 bbbb
 [[goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png]]
 
