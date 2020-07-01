@@ -1,4 +1,3 @@
-aaaa
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/waverun/goon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -28,13 +27,8 @@ Syntax highlighted code block
 # Support page for Go On app
 
 ## Know when it is best to travel 
-### Know which places are best to visit on A month or week 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waverun/goon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Know which places are best to visit in any month or week 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please mail waverun@me.com
