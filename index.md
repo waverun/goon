@@ -1,4 +1,4 @@
-[[goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png]]
+[[goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png?raw=true]]
 
 # Support page for Go On app
 
