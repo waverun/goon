@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+![Image](https://github.com/waverun/goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png)
+
 # Go on 
 ## Know when it is best to travel 
 ### Know which places are best to visit on A month or week 
