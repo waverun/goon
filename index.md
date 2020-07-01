@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+# Support page for Go On app
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
