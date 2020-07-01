@@ -26,6 +26,8 @@ Syntax highlighted code block
 ```
 
 ![Image](https://github.com/waverun/goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png)
+aaaa
+[[goon/blob/master/Icon-App-83.5x83.5%402x%20copy.png]]
 
 # Support page for Go On app
 
